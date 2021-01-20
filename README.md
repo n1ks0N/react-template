@@ -1,7 +1,7 @@
 # React Template
 
 This project is template include: react, redux, redux-saga, styled-components, react-router-dom, prettier, testing utils.\
-It is need to simplify routine work for creating react-app.
+It is necessary to simplify the routine work of creating react-app.
 
 
 # Getting Started with Create React App
